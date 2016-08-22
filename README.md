@@ -1,7 +1,7 @@
 # Laravel-Login-Using-SocailLite-Google-login-Facebook-login-Twitter-login-
 
 I used Laravel SociaLite in Laravel framwork To give Login like
-	 -----Google Login
+         -----Google Login
  	 -----Facebook Login 
  	 -----Twitter Login 
 
